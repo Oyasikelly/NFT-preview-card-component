@@ -16,7 +16,7 @@ html, body, main, section, h1, h2, p, span {
  }
 
  .wrapper{
-    background-color:rgb(22, 38, 61);
+    background-color:hsl(216, 50%, 16%);
     width: 400px;  
     padding: 2rem;
     margin:auto;
@@ -100,7 +100,7 @@ h6{
 
 hr.one{
    height: 0px;
-   border: 1px solid rgba(99, 113, 155, 0.25);
+   border: 1px solid hsl(215, 32%, 27%);
 }
 .time{
 
@@ -136,7 +136,7 @@ hr.one{
    max-width:100%;
    display:block;
    line-height: 60px;
-   font-weight:bold;
+   font-weight:18px;
    padding-right: 30px;
    letter-spacing: 2px;
  }
